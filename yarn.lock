@@ -2995,8 +2995,8 @@ merge-stream@^1.0.1:
     readable-stream "^2.0.1"
 
 merge@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 method-override@~2.3.5:
   version "2.3.10"
@@ -3185,10 +3185,6 @@ mocha@^5.2.0:
     minimatch "3.0.4"
     mkdirp "0.5.1"
     supports-color "5.4.0"
-
-moment@2.19.3:
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.19.3.tgz#bdb99d270d6d7fda78cc0fbace855e27fe7da69f"
 
 moment@^2.19.0:
   version "2.22.2"
@@ -4035,7 +4031,7 @@ react-native-sticky-keyboard-accessory@0.1.1:
 
 react-native-tab-view@^0.0.77:
   version "0.0.77"
-  resolved "http://registry.npmjs.org/react-native-tab-view/-/react-native-tab-view-0.0.77.tgz#11ceb8e7c23100d07e628dc151b57797524d00d4"
+  resolved "https://registry.npmjs.org/react-native-tab-view/-/react-native-tab-view-0.0.77.tgz#11ceb8e7c23100d07e628dc151b57797524d00d4"
   dependencies:
     prop-types "^15.6.0"
 
